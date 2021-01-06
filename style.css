@@ -23,6 +23,14 @@ footer .jumbotron2 {
 	padding: 50px;
 	margin-top: 200px;
 }
+h2 {
+	color: DimGrey;
+	text-align: center;
+	margin: 20px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
 body {
 	background-color: FloralWhite;
 }
